@@ -1,0 +1,255 @@
+[Master]
+Implementation=2
+FontFace=Oswald
+FontHeight=-11
+FontWeight=700
+ZoomRatio=2
+[Settings]
+Name=
+EnvVars=
+RefreshPeriod=1000
+EmbeddedImage=
+PingAddr=
+[General]
+Sources=10
+Tables=0
+Layers=20
+[Source0]
+Name=CPU usage
+Units=%
+Format=
+Formula=
+Provider=HAL
+ID=CPU usage
+[Source1]
+Name=CPU temperature
+Units=°C
+Format=
+Formula=
+Provider=HAL
+ID=CPU temperature
+[Source2]
+Name=CPU power
+Units=W
+Format=
+Formula=
+Provider=HAL
+ID=CPU power
+[Source3]
+Name=RAM usage
+Units=MB
+Format=
+Formula=
+Provider=HAL
+ID=RAM usage
+[Source4]
+Name=GPU1 temperature
+Units=°C
+Format=
+Formula=
+Provider=HAL
+ID=GPU1 temperature
+[Source5]
+Name=GPU1 usage
+Units=%
+Format=
+Formula=
+Provider=HAL
+ID=GPU1 usage
+[Source6]
+Name=GPU1 power
+Units=W
+Format=
+Formula=
+Provider=HAL
+ID=GPU1 power
+[Source7]
+Name=GPU1 memory usage
+Units=MB
+Format=
+Formula=
+Provider=HAL
+ID=GPU1 memory usage
+[Source8]
+Name=CPU clock
+Units=MHz
+Format=
+Formula=
+Provider=HAL
+ID=CPU clock
+[Source9]
+Name=GPU1 clock
+Units=MHz
+Format=
+Formula=
+Provider=HAL
+ID=GPU1 clock
+[Layer0]
+Name=
+Text=%GPU1 usage% %
+PositionX=-10
+PositionY=-2
+ExtentX=-4
+ExtentY=-1
+ExtentOrigin=4
+[Layer1]
+Name=
+Text=i5 12400F
+PositionX=-1
+PositionY=0
+ExtentX=0
+ExtentY=0
+ExtentOrigin=0
+TextColor=64B9B8
+[Layer2]
+Name=
+Text=%CPU usage% %
+PositionX=-10
+PositionY=0
+ExtentX=-4
+ExtentY=-1
+ExtentOrigin=4
+[Layer3]
+Name=
+Text=%CPU temperature% °C
+PositionX=-16
+PositionY=0
+ExtentX=-5
+ExtentY=-1
+ExtentOrigin=4
+[Layer4]
+Name=
+Text=%CPU power% W
+PositionX=-23
+PositionY=0
+ExtentX=-4
+ExtentY=-1
+ExtentOrigin=4
+[Layer5]
+Name=
+Text=%CPU clock% MHz
+PositionX=-29
+PositionY=0
+ExtentX=-8
+ExtentY=-1
+ExtentOrigin=4
+[Layer6]
+Name=
+Text=%RAM usage% MB
+PositionX=-39
+PositionY=0
+ExtentX=-8
+ExtentY=-1
+ExtentOrigin=3
+[Layer7]
+Name=
+Text=RTX 3060
+PositionX=-1
+PositionY=-2
+ExtentX=0
+ExtentY=0
+ExtentOrigin=0
+TextColor=64B9B8
+[Layer8]
+Name=
+Text=%GPU1 temperature% °C
+PositionX=-16
+PositionY=-2
+ExtentX=-5
+ExtentY=-1
+ExtentOrigin=4
+[Layer9]
+Name=
+Text=%GPU1 power% W
+PositionX=-23
+PositionY=-2
+ExtentX=-4
+ExtentY=-1
+ExtentOrigin=4
+[Layer10]
+Name=
+Text=%GPU1 clock% MHz
+PositionX=-29
+PositionY=-2
+ExtentX=-8
+ExtentY=-1
+ExtentOrigin=4
+[Layer11]
+Name=
+Text=%GPU1 memory usage% MB
+PositionX=-39
+PositionY=-2
+ExtentX=-8
+ExtentY=-1
+ExtentOrigin=3
+[Layer12]
+Name=
+Text=AVG
+PositionX=-1
+PositionY=-4
+ExtentX=-4
+ExtentY=-1
+ExtentOrigin=3
+TextColor=64B9B8
+[Layer13]
+Name=
+Text=<FRAVG> <S=75>FPS
+PositionX=-7
+PositionY=-4
+ExtentX=-6
+ExtentY=-1
+ExtentOrigin=4
+[Layer14]
+Name=
+Text=1% Lows
+PositionX=-15
+PositionY=-4
+ExtentX=-8
+ExtentY=-1
+ExtentOrigin=4
+Size=101
+TextColor=64B9B8
+[Layer15]
+Name=
+Text=<FR10L> <S=75>FPS
+PositionX=-25
+PositionY=-4
+ExtentX=-5
+ExtentY=-1
+ExtentOrigin=4
+[Layer16]
+Name=
+Text=<FR> <S=80>FPS
+PositionX=-39
+PositionY=-4
+ExtentX=-8
+ExtentY=-2
+ExtentOrigin=4
+Size=150
+[Layer17]
+Name=
+Text=<G=Frametime,-30,-1,1,0,100,0>
+PositionX=-1
+PositionY=-5
+ExtentX=0
+ExtentY=0
+ExtentOrigin=0
+TextColor=64B9B8
+[Layer18]
+Name=
+Text=<APP>
+PositionX=-31
+PositionY=-4
+ExtentX=-7
+ExtentY=-1
+ExtentOrigin=4
+TextColor=64B9B8
+[Layer19]
+Name=
+Text=<FT> ms
+PositionX=-31
+PositionY=-5
+ExtentX=-7
+ExtentY=-1
+ExtentOrigin=4
+Size=80
