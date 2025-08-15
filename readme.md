@@ -1,4 +1,4 @@
-# Rivatuner Overalys
+# Rivatuner Overlays
 
 Set of my designed rivatuner overlays which I use and upload to share across all my devices. Feel free to check them out !
 

@@ -92,6 +92,7 @@ PositionY=-2
 ExtentX=-4
 ExtentY=-1
 ExtentOrigin=4
+TextColor=F08080
 [Layer1]
 Name=
 Text=i5 12400F
@@ -109,6 +110,7 @@ PositionY=0
 ExtentX=-4
 ExtentY=-1
 ExtentOrigin=4
+TextColor=F08080
 [Layer3]
 Name=
 Text=%CPU temperature% °C
@@ -117,6 +119,7 @@ PositionY=0
 ExtentX=-5
 ExtentY=-1
 ExtentOrigin=4
+TextColor=F08080
 [Layer4]
 Name=
 Text=%CPU power% W
@@ -125,6 +128,7 @@ PositionY=0
 ExtentX=-4
 ExtentY=-1
 ExtentOrigin=4
+TextColor=F08080
 [Layer5]
 Name=
 Text=%CPU clock% MHz
@@ -133,6 +137,7 @@ PositionY=0
 ExtentX=-8
 ExtentY=-1
 ExtentOrigin=4
+TextColor=F08080
 [Layer6]
 Name=
 Text=%RAM usage% MB
@@ -141,6 +146,7 @@ PositionY=0
 ExtentX=-8
 ExtentY=-1
 ExtentOrigin=3
+TextColor=F08080
 [Layer7]
 Name=
 Text=RTX 3060
@@ -158,6 +164,7 @@ PositionY=-2
 ExtentX=-5
 ExtentY=-1
 ExtentOrigin=4
+TextColor=F08080
 [Layer9]
 Name=
 Text=%GPU1 power% W
@@ -166,6 +173,7 @@ PositionY=-2
 ExtentX=-4
 ExtentY=-1
 ExtentOrigin=4
+TextColor=F08080
 [Layer10]
 Name=
 Text=%GPU1 clock% MHz
@@ -174,6 +182,7 @@ PositionY=-2
 ExtentX=-8
 ExtentY=-1
 ExtentOrigin=4
+TextColor=F08080
 [Layer11]
 Name=
 Text=%GPU1 memory usage% MB
@@ -182,6 +191,7 @@ PositionY=-2
 ExtentX=-8
 ExtentY=-1
 ExtentOrigin=3
+TextColor=F08080
 [Layer12]
 Name=
 Text=AVG
@@ -199,6 +209,7 @@ PositionY=-4
 ExtentX=-6
 ExtentY=-1
 ExtentOrigin=4
+TextColor=F08080
 [Layer14]
 Name=
 Text=1% Lows
@@ -217,6 +228,7 @@ PositionY=-4
 ExtentX=-5
 ExtentY=-1
 ExtentOrigin=4
+TextColor=F08080
 [Layer16]
 Name=
 Text=<FR> <S=80>FPS
@@ -226,6 +238,7 @@ ExtentX=-8
 ExtentY=-2
 ExtentOrigin=4
 Size=150
+TextColor=64B9B8
 [Layer17]
 Name=
 Text=<G=Frametime,-30,-1,1,0,100,0>
@@ -253,3 +266,4 @@ ExtentX=-7
 ExtentY=-1
 ExtentOrigin=4
 Size=80
+TextColor=F08080
