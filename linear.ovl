@@ -93,7 +93,7 @@ ID=GPU1 memory clock
 [Layer0]
 Name=
 Text=<FR>
-PositionX=-66
+PositionX=-69
 PositionY=0
 ExtentX=-8
 ExtentY=-1
@@ -103,7 +103,7 @@ TextColor=FF0000
 [Layer1]
 Name=
 Text=AVG
-PositionX=-59
+PositionX=-62
 PositionY=-1
 ExtentX=-5
 ExtentY=-1
@@ -112,7 +112,7 @@ TextColor=FFFFFF
 [Layer2]
 Name=
 Text=<FRAVG>
-PositionX=-59
+PositionX=-62
 PositionY=0
 ExtentX=-5
 ExtentY=-1
@@ -121,7 +121,7 @@ TextColor=FF0080
 [Layer3]
 Name=
 Text=1%
-PositionX=-76
+PositionX=-79
 PositionY=-1
 ExtentX=-5
 ExtentY=-1
@@ -130,7 +130,7 @@ TextColor=FFFFFF
 [Layer4]
 Name=
 Text=<FR10L>
-PositionX=-76
+PositionX=-79
 PositionY=0
 ExtentX=-5
 ExtentY=-1
@@ -257,7 +257,7 @@ TextColor=FFFFFF
 [Layer18]
 Name=
 Text=CPU
-PositionX=-87
+PositionX=-89
 PositionY=0
 ExtentX=-7
 ExtentY=-2
@@ -267,7 +267,7 @@ TextColor=80FF
 [Layer19]
 Name=
 Text=USAGE
-PositionX=-94
+PositionX=-96
 PositionY=-1
 ExtentX=-6
 ExtentY=-1
@@ -276,7 +276,7 @@ TextColor=FFFFFF
 [Layer20]
 Name=
 Text=TEMP
-PositionX=-101
+PositionX=-103
 PositionY=-1
 ExtentX=-6
 ExtentY=-1
@@ -285,7 +285,7 @@ TextColor=FFFFFF
 [Layer21]
 Name=
 Text=POWER
-PositionX=-108
+PositionX=-110
 PositionY=-1
 ExtentX=-6
 ExtentY=-1
@@ -294,7 +294,7 @@ TextColor=FFFFFF
 [Layer22]
 Name=
 Text=%CPU usage% %
-PositionX=-94
+PositionX=-96
 PositionY=0
 ExtentX=-6
 ExtentY=-1
@@ -303,7 +303,7 @@ TextColor=F08080
 [Layer23]
 Name=
 Text=%CPU temperature% °C
-PositionX=-101
+PositionX=-103
 PositionY=0
 ExtentX=-6
 ExtentY=-1
@@ -312,7 +312,7 @@ TextColor=F08080
 [Layer24]
 Name=
 Text=%CPU power% W
-PositionX=-108
+PositionX=-110
 PositionY=0
 ExtentX=-6
 ExtentY=-1
@@ -321,7 +321,7 @@ TextColor=F08080
 [Layer25]
 Name=
 Text=CLOCK
-PositionX=-115
+PositionX=-117
 PositionY=-1
 ExtentX=-9
 ExtentY=-1
@@ -330,7 +330,7 @@ TextColor=FFFFFF
 [Layer26]
 Name=
 Text=RAM
-PositionX=-125
+PositionX=-127
 PositionY=-1
 ExtentX=-9
 ExtentY=-1
@@ -339,7 +339,7 @@ TextColor=FFFFFF
 [Layer27]
 Name=
 Text=%CPU clock% MHz
-PositionX=-115
+PositionX=-117
 PositionY=0
 ExtentX=-9
 ExtentY=-1
@@ -348,7 +348,7 @@ TextColor=F08080
 [Layer28]
 Name=
 Text=%RAM usage% MB
-PositionX=-125
+PositionX=-127
 PositionY=0
 ExtentX=-9
 ExtentY=-1
@@ -357,7 +357,7 @@ TextColor=F08080
 [Layer29]
 Name=
 Text=<G=Frametime,-12,-1,1,0,100,0>
-PositionX=-64
+PositionX=-67
 PositionY=-1
 ExtentX=-12
 ExtentY=-1
@@ -366,19 +366,19 @@ TextColor=FF0000
 [Layer30]
 Name=
 Text=<FT> ms
-PositionX=-81
+PositionX=-84
 PositionY=0
-ExtentX=-4
+ExtentX=-5
 ExtentY=-1
 ExtentOrigin=4
-Size=65
+Size=70
 TextColor=FF0000
 [Layer31]
 Name=
 Text=<APP>
-PositionX=-81
-PositionY=-1
-ExtentX=-4
+PositionX=-57
+PositionY=0
+ExtentX=-5
 ExtentY=-1
 ExtentOrigin=4
 Size=75
